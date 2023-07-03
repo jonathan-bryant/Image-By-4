@@ -1,7 +1,8 @@
 [Setup]
 AppName=ImageBy4
-AppVersion=1.0
+AppVersion=1.1
 DefaultDirName={pf}\ImageBy4
+OutputBaseFilename=ImageBy4_Windows_Installer_v1.1
 
 [Files]
 Source: "dist\ImageBy4.exe"; DestDir: "{app}"; Flags: ignoreversion
